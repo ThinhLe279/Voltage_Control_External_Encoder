@@ -27,6 +27,7 @@ Table of Content
 * 1 x BC547 transistor
 
 2. Description
+
 The purpose of this project is to learn how to combine the external encoder with the internal DAC peripheral on `STM32L152RE` and learn how to create an industry standard 0-10V message.
 
 The quadrature encoder will be used in this Project, because an encoder with one set of pulses would not be useful because it could not indicate the direction of rotation. Using two
